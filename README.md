@@ -63,6 +63,8 @@ unzip file
 unzip ko.zip -d ko
 ```
 
+run `word2vec_test.ipynb`
+
 ## Reference
 #### Package
 * https://pypi.org/project/gensim/
