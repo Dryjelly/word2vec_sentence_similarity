@@ -72,3 +72,5 @@ unzip ko.zip -d ko
 * https://mr-doosun.tistory.com/22
 * https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/30/word2vec/
 * https://www.sallys.space/blog/2018/04/05/negative-sampling/
+* https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/tutorials/word2vec/
+* https://excelsior-cjh.tistory.com/156
