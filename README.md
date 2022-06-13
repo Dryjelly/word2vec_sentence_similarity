@@ -1,9 +1,18 @@
 # Measure sentence similarity by using word2vec 
 
-word2vec을 사용하여 문장 유사도를 측정합니다.   
+`word2vec`  
 <p align="center">
-<img src="https://i.imgur.com/TupGxMl.png" alt="model" style="width:400px;"/>
+  <img src="readme/img1.png" alt="model" style="width:700px;"/>
+</p>
+
+word2vec 을 사용하여 문장 유사도를 측정합니다.
+<p align="center">
+  <img src="readme/img2.png" alt="model" style="width:650px;"/>
 </p>   
+
+임베딩 영역의 정보를 이용하면 단어들의 유사도를 판단할 수 있다.   
+이 방법을 이용하여 문장의 유사도를 측정해보자. 
+
 
 `news.txt`
 ```
